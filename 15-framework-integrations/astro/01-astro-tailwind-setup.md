@@ -1,5 +1,5 @@
-# SvelteKit Tailwind Integration
+# Astro Tailwind Setup
 
-`npx svelte-add@latest tailwindcss`. Config added automatically.
+`npx astro add tailwind`. Automatic configuration.
 
-> 📘 Next: [Svelte Stores & Dark Mode](02-svelte-stores-and-dark-mode.md)
+> 📘 Next: **16-real-world-projects** – [Landing Page](../16-real-world-projects/01-landing-page/01-design-tokens-and-config.md)
