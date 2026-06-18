@@ -1,5 +1,5 @@
-# Svelte Stores & Dark Mode
+# SvelteKit Tailwind Integration
 
-Use a Svelte store for dark mode toggle, add `dark` class to `<html>`.
+`npx svelte-add@latest tailwindcss`. Config added automatically.
 
-> 📘 Next: [Astro – Tailwind Setup](../astro/01-astro-tailwind-setup.md)
+> 📘 Next: [Svelte Stores & Dark Mode](02-svelte-stores-and-dark-mode.md)
